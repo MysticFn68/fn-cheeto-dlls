@@ -1,6 +1,6 @@
-## Fortnite Cheeto DLL's
-all of these dlls are either got leaked or are from free cheetos
-some of those cheats may not work since theyre outdated
+## Fortnite Cheeto DLL Library - by veroty#9999
+All of these dlls are either got leaked, cracked or are from free cheetos.
+Some of those cheats may not work since theyre outdated
 
 ## List:
 - CheatAlphaFN
@@ -24,4 +24,3 @@ some of those cheats may not work since theyre outdated
 - TrueAim
 - SolarCheats
 - Vertigo
-
