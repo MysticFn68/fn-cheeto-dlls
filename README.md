@@ -24,3 +24,8 @@ Some of those cheats may not work since theyre outdated
 - TrueAim
 - SolarCheats
 - Vertigo
+
+Credits:
+- Riks.#1337
+- veroty#9999
+> dm me on discord veroty#9999
